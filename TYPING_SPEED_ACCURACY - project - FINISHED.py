@@ -282,12 +282,3 @@ def typing_test():
     infinite_loop()
 
 typing_test()
-
-
-
-
-
-
-
-
-
